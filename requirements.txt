@@ -1,0 +1,4 @@
+Flask==3.0.3
+spond==0.99.1
+google-cloud-core==2.4.1
+google-cloud-firestore==2.16.0
